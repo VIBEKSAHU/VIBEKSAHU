@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vibek Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="left" alt="coding" width="300" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
-<img align="right" alt="coding" width="300" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+
+![Banner](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
+<img align="left" alt="coding" width="200" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
+<img align="right" alt="coding" width="250" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibeksahu&label=Profile%20views&color=0e75b6&style=flat" alt="vibeksahu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibeksahu" alt="vibeksahu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=vibeksahu" alt="vibeksahu" />
+</a> </p>
 
 - 🔭 I’m currently working on **portfolio**
 
